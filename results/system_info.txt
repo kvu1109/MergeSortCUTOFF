@@ -1,0 +1,9 @@
+=== THONG SO MOI TRUONG THI NGHIEM ===
+Thoi gian chay : 2026-11-19 23:29:15
+He dieu hanh   : Windows 11 (amd64) - Phien ban: 10.0
+So luong CPU   : 8 logical cores
+Java Version   : 25.0.2 (Oracle Corporation)
+JVM Name       : Java HotSpot(TM) 64-Bit Server VM
+Max Heap Memory: 8120,00 MB
+Warmup runs    : 5
+Measured runs  : 15
