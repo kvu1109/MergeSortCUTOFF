@@ -15,7 +15,7 @@ Dự án nghiên cứu thực nghiệm nhằm xác định ngưỡng kích thư�
 ## 2. Cấu trúc thư mục dự án
 
 ```text
-mergeSortCUTOFF/
+MergeSortCUTOFF/
 ├── src/
 │   ├── main/java/
 │   │   ├── Insertion.java          # Cài đặt Insertion Sort (toàn mảng và đoạn [lo, hi])
